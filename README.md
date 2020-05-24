@@ -1,1 +1,1 @@
-jedakiraka.gitpage.io
+[jedakiraka.github.io](jedakiraka.github.io)
